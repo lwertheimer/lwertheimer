@@ -42,7 +42,7 @@ if submitted:
                         },
                         {
                             "role": "user", 
-                            "content": f"Please summarize this text in 3-5 sentences, if possible including bullet points. Finally, list the total words of the article and the top 5 most used words (excepting stop words) with their frequency :\n\n{input_text}"
+                            "content": f"Please summarize this text in 3-5 sentences. Finally, list the total words of the article and the top 5 most used words (excepting stop words) by frequency:\n\n{input_text}"
                         }
                     ],
                     temperature=0.5,
