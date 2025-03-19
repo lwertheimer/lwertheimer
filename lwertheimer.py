@@ -42,7 +42,7 @@ if submitted:
                         },
                         {
                             "role": "user", 
-                            "content": f"Please summarize this text in 3-5 sentences. Finally, list the 3 most used words (excepting stop words) with their frequency in the original text in this format - The five most used words - and the 3 most used descriptive adjectives in the original text with their frequency in this format - The three most used descriptive adjectives - :\n\n{input_text}"
+                            "content": f"Please summarize this text in 3-5 sentences. Finally, list the 5 most used words (excepting stop words) with their frequency in the original text in this format - The five most used words - and the 5 most used descriptive adjectives in the original text with their frequency in this format - The five most used descriptive adjectives - :\n\n{input_text}"
                         }
                     ],
                     temperature=0.5,
