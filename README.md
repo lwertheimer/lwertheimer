@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. The app is available at https://lwertheimer.streamlit.app/. Thank you!
 
 <!--
 **lwertheimer/lwertheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
