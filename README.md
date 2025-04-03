@@ -1,6 +1,6 @@
 ## Hello! 👋 I made a simple text summarizer app using Python and OpenAI GPT‑4o mini API. It summarizes a text of up to 5000 words approximately into a long paragraph. 
 
-## In addition, it lists the five most used words (excluding stop words) and the five most used descriptive adjectives with their respective frequency. 
+In addition, it lists the five most used words (excluding stop words) and the five most used descriptive adjectives with their respective frequency. 
 
 ## The app is available at https://lwertheimer.streamlit.app/. Thank you!
 
