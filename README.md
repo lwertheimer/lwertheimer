@@ -1,4 +1,4 @@
-## Hi there 👋. The app is available at https://lwertheimer.streamlit.app/. Thank you!
+## Hello 👋. I made a simple text summarizer app using Python and OpenAI GPT‑4o mini API. The app is available at https://lwertheimer.streamlit.app/. Thank you!
 
 <!--
 **lwertheimer/lwertheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
